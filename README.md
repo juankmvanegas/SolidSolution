@@ -8,3 +8,4 @@ Inversión de dependencias: Si hay una afectación en las clases de bajo nivel l
 
 En el proyecto de solución se propone una alternativa que busca solventar los casos planteados.
 
+![image](https://github.com/user-attachments/assets/9dc0a5cd-2e14-42c9-922c-ef8a0df1f634)
